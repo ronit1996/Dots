@@ -1,0 +1,420 @@
+{
+   "checksum": "ac6f89dbc799a184370f6832a71a6b47",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13290686302196712",
+               "date_last_used": "0",
+               "guid": "6e30a5d7-b64d-4858-b3d2-9ba41e64da37",
+               "id": "29",
+               "name": "Bullet - dynamic constraint creation - Effects - od|forum",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://forums.odforce.net/topic/20640-bullet-dynamic-constraint-creation/"
+            }, {
+               "date_added": "13290686330152676",
+               "date_last_used": "0",
+               "guid": "4662e04b-55a2-491e-bef4-fd9479084569",
+               "id": "30",
+               "name": "Realistic Dynamic Fracturing with Bullet - Effects - od|forum",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://forums.odforce.net/topic/20691-realistic-dynamic-fracturing-with-bullet/"
+            }, {
+               "date_added": "13291202819317969",
+               "date_last_used": "0",
+               "guid": "01c7d1c8-06a4-4327-a50d-633f33fcceb1",
+               "id": "31",
+               "name": "Houdini Bullet Physics Tips – Nick Taylor",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://nicholas-taylor.com/assorted-bullet"
+            }, {
+               "date_added": "13295371968911470",
+               "date_last_used": "0",
+               "guid": "ad5be8f4-5419-4e10-891a-075a0cbd1dde",
+               "id": "32",
+               "name": "The joy of xyzdist() and primuv() – Toadstorm Nerdblog",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.toadstorm.com/blog/?p=465"
+            } ],
+            "date_added": "13290686327330122",
+            "date_last_used": "0",
+            "date_modified": "13295371968911470",
+            "guid": "a5988cd7-b066-4932-92ee-483213709e8a",
+            "id": "28",
+            "name": "Houdini",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13290555915325718",
+                  "date_last_used": "0",
+                  "guid": "93e3a514-12c5-4e6b-842e-cbb52aaa85d7",
+                  "id": "35",
+                  "name": "Middle East - Five Books Expert Recommendations",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://fivebooks.com/category/world/asia/middle-east/"
+               } ],
+               "date_added": "13290782515745925",
+               "date_last_used": "0",
+               "date_modified": "13290782515745925",
+               "guid": "f28fb463-1ad0-4157-bdb1-18df3f8f1854",
+               "id": "34",
+               "name": "Middle East Politics",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13292675922642226",
+               "date_last_used": "0",
+               "guid": "a8d0b1ea-df55-41a4-8835-c24b88b80d61",
+               "id": "36",
+               "name": "Learning Modern 3D Graphics Programming",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://paroj.github.io/gltut/"
+            } ],
+            "date_added": "13290782515745494",
+            "date_last_used": "0",
+            "date_modified": "13292675922642226",
+            "guid": "ef300e03-6c8b-4914-9f7f-514bfa201033",
+            "id": "33",
+            "name": "Books",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13292408311539250",
+               "date_last_used": "0",
+               "guid": "464fa81b-2f8a-49f4-9ffa-7915e4d4e052",
+               "id": "38",
+               "name": "Support Vector Machine Object Detection | Kaggle",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.kaggle.com/code/mehmetlaudatekman/support-vector-machine-object-detection/notebook"
+            }, {
+               "date_added": "13292759238466984",
+               "date_last_used": "0",
+               "guid": "e453a9a9-e7b4-46b0-8c30-0ff27aa6a21c",
+               "id": "39",
+               "name": "HOG-based SVM for detecting vehicles in a video (part 3) • Najam R. Syed",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://nrsyed.com/2018/05/10/hog-based-svm-for-detecting-vehicles-in-a-video-part-3/"
+            }, {
+               "date_added": "13293470026235740",
+               "date_last_used": "0",
+               "guid": "3f42d9b6-ea49-4add-a307-6705f27af8d9",
+               "id": "40",
+               "name": "All Posts tagged as \"Crash Course\" - ML@B Blog",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ml.berkeley.edu/blog/tag/crash-course"
+            } ],
+            "date_added": "13292408336661437",
+            "date_last_used": "0",
+            "date_modified": "13293470026235740",
+            "guid": "0b03ec5b-2140-4e7d-8207-23dbbf3085f2",
+            "id": "37",
+            "name": "AI/ML",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295511529985837",
+               "date_last_used": "0",
+               "guid": "b8d1873a-d054-4e63-8762-1a11bfd505ed",
+               "id": "42",
+               "name": "Manchester City vs Real Madrid - Champions League - Soccercatch.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://soccercatch.com/matches/18509782/manchester-city-vs-real-madrid#media"
+            }, {
+               "date_added": "13295815541808801",
+               "date_last_used": "0",
+               "guid": "06bfa9c4-94c9-4e24-af83-be5dd9a89e74",
+               "id": "43",
+               "name": "Football Statistics | Football Live Scores | WhoScored.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://1xbet.whoscored.com/"
+            } ],
+            "date_added": "13295511552863206",
+            "date_last_used": "0",
+            "date_modified": "13295815541808801",
+            "guid": "a0d98438-ffd7-4de8-a827-16961de441e0",
+            "id": "41",
+            "name": "Football",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13327434530707339",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13327434530707345",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13204048086680856",
+            "date_last_used": "0",
+            "guid": "7264bd02-7305-4bad-b8df-242ad1eca116",
+            "id": "6",
+            "name": "British Colonial Rule on the Indian Economy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.economicsdiscussion.net/indian-economy/british-colonial-rule-on-the-indian-economy/19007"
+         }, {
+            "date_added": "13204048128378461",
+            "date_last_used": "0",
+            "guid": "ad27183e-ad39-4012-9a86-a124ff16a7e8",
+            "id": "7",
+            "name": "What Are the Characteristics of Renaissance Art?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/education.onehowto.com/article/what-are-the-characteristics-of-renaissance-art-12642.html%3famp=1"
+         }, {
+            "date_added": "13204156157253383",
+            "date_last_used": "0",
+            "guid": "05268b90-564e-4371-84ce-b46745396590",
+            "id": "8",
+            "name": "https://www.watchcartoononline.io/search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.watchcartoononline.io/search"
+         }, {
+            "date_added": "13204379504975229",
+            "date_last_used": "0",
+            "guid": "0549a47e-db4f-4024-acc7-96e53a419820",
+            "id": "9",
+            "name": "10 Reasons Why Human Rights Are Important - Human Rights Issues",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://humanrightsissues.org/10-reasons-why-human-rights-are-important/"
+         }, {
+            "date_added": "13204385065656680",
+            "date_last_used": "0",
+            "guid": "1664bd75-b232-4c46-9f9f-375bc4675bf0",
+            "id": "10",
+            "name": "Top 6 Major Objectives of Planning in India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.yourarticlelibrary.com/india-2/planning-in-india/top-6-major-objectives-of-planning-in-india/62957"
+         }, {
+            "date_added": "13204447104352423",
+            "date_last_used": "0",
+            "guid": "4026c700-985e-49ae-8828-ca05e5562c10",
+            "id": "11",
+            "name": "What are the Main Aims of Education?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.yourarticlelibrary.com/education/what-are-the-main-aims-of-education/76806"
+         }, {
+            "date_added": "13204470298055673",
+            "date_last_used": "0",
+            "guid": "b383dc25-6647-4d95-a009-dfba4c996997",
+            "id": "12",
+            "name": "Human security | political science | Britannica.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.britannica.com/topic/human-security"
+         }, {
+            "date_added": "13204547685181609",
+            "date_last_used": "0",
+            "guid": "f4e2a6a1-953f-45d1-afdd-d6a12c6c9edb",
+            "id": "13",
+            "name": "Globalisation and The Indian Economy: Concepts, Definition and Effects",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.toppr.com/guides/economics/globalisation-and-the-indian-economy/globalisation-and-the-indian-economy/"
+         }, {
+            "date_added": "13204605304462027",
+            "date_last_used": "0",
+            "guid": "53724f83-8522-4a53-a19c-3c664f643a69",
+            "id": "14",
+            "name": "Postindustrial society | Britannica.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.britannica.com/topic/postindustrial-society"
+         }, {
+            "date_added": "13204605403647537",
+            "date_last_used": "0",
+            "guid": "172252fa-b710-4688-a0de-15f71b9feb2a",
+            "id": "15",
+            "name": "Essential Characteristics of Post-Industrial Society",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.yourarticlelibrary.com/essay/essential-characteristics-of-post-industrial-society/39871"
+         }, {
+            "date_added": "13204607396627797",
+            "date_last_used": "0",
+            "guid": "e424ffb8-341c-4e08-b5b4-26e89fe84580",
+            "id": "16",
+            "name": "Fundamental Rights & Duties: Directive Principles of State Policy, Example",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.toppr.com/guides/general-knowledge/indian-constitution-fundamental-concepts/fundamental-rights-and-duties/"
+         }, {
+            "date_added": "13206030818107818",
+            "date_last_used": "0",
+            "guid": "f6a83be5-44c7-452e-8474-26110071cebc",
+            "id": "17",
+            "name": "Maths Book for Houdini - Education - od|forum",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forums.odforce.net/topic/29170-maths-book-for-houdini/"
+         }, {
+            "date_added": "13248158321686083",
+            "date_last_used": "0",
+            "guid": "51515323-39be-43ca-b52c-75869b61c0ac",
+            "id": "18",
+            "name": "Immersive Math",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://immersivemath.com/ila/index.html"
+         }, {
+            "date_added": "13248639540209156",
+            "date_last_used": "0",
+            "guid": "857f4d07-85c8-4cb1-abb3-a645a3ee0ead",
+            "id": "19",
+            "name": "chinatown market building 3d model",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.turbosquid.com/3d-models/chinatown-market-building-3d-model/785377"
+         }, {
+            "date_added": "13248869198176887",
+            "date_last_used": "0",
+            "guid": "170be4b0-f240-4495-8370-d22cf5380257",
+            "id": "20",
+            "name": "Deborah R. Fowler | Math for VSFX!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://deborahrfowler.com/MathForVSFX/MATH_FOR_VSFX.html"
+         }, {
+            "date_added": "13278663748682973",
+            "date_last_used": "0",
+            "guid": "baa82751-ef78-45a9-a737-a0ef8b3eab93",
+            "id": "21",
+            "name": "educational-hips/rbf at master · pedohorse/educational-hips",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/pedohorse/educational-hips/tree/master/rbf"
+         }, {
+            "date_added": "13279353660025122",
+            "date_last_used": "0",
+            "guid": "7d88a5af-ca87-4086-97d1-f0e6730dfa85",
+            "id": "22",
+            "name": "Neural networks and deep learning",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://neuralnetworksanddeeplearning.com/"
+         }, {
+            "date_added": "13279892549275859",
+            "date_last_used": "0",
+            "guid": "cf5cbb5b-9a90-49ab-941e-18821596fcdf",
+            "id": "23",
+            "name": "get rid of mushroom effect in explosion and add details in the opening - Effects - od|forum",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forums.odforce.net/topic/18397-get-rid-of-mushroom-effect-in-explosion-and-add-details-in-the-opening/"
+         }, {
+            "date_added": "13280045898908863",
+            "date_last_used": "0",
+            "guid": "51385bde-df15-4b55-9426-73e9445f232d",
+            "id": "24",
+            "name": "Preface — Dive into Deep Learning 0.17.0 documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://d2l.ai/chapter_preface/index.html"
+         }, {
+            "date_added": "13281021608398908",
+            "date_last_used": "0",
+            "guid": "a2c40f41-42d0-4f24-aba5-f84eb134d644",
+            "id": "25",
+            "name": "Object detection using traditional Computer Vision techniques : Part 4b | LearnOpenCV",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learnopencv.com/?s=Object+detection+using+traditional+Computer+Vision+techniques+%3A+Part+4b&id=16719"
+         }, {
+            "date_added": "13281422899316958",
+            "date_last_used": "0",
+            "guid": "e0edc5c4-e43a-4bdf-9121-90407c9836eb",
+            "id": "26",
+            "name": "Yann LeCun’s Deep Learning Course at CDS – NYU Center for Data Science",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cds.nyu.edu/deep-learning/"
+         }, {
+            "date_added": "13285312238758165",
+            "date_last_used": "0",
+            "guid": "864769d1-c091-4d96-ae7e-955535bfb0a1",
+            "id": "27",
+            "name": "IPACCT | User information portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://10.254.254.66/0/up/"
+         } ],
+         "date_added": "13327434530707346",
+         "date_last_used": "0",
+         "date_modified": "13285312238758165",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNOswumDAQAAEgAgASoYbGpKQ0cxeWhsRk5UMGZUYjFZMG1sZz09oAYJEqcBCCkSogEKHHJMbjRSVzVHSXgwT2YzdjNOZFBBT2k5dVY4ND0SJGEwZDk4NDM4LWZmZDctNGRlOC1hODI3LTE2OTYxZGU0NDFlMBgAIAAoADCB0p/MhjA45NKfzIYwQOTSn8yGMEocT3QyQlRiNGhBR2lyNEVUMkdULzlRVlVic1Q0PVoeIhxmTlpINDhud2ZadUVZdndYUWlzQ2tsVStuWk09ZQAAAAASpwEIKBKiAQocYk5CWGJITUoxOVVSREFwL0JiSzcwc0ZFS0NNPRIkM2Y0MmQ5YjYtZWE0OS00YWRkLWEzMDctNjcwNWYyN2FmOGQ5GAAgACgAMKTw4v7+Lzj78OL+/i9A+/Di/v4vShxENkhCYVVRcjVzSDRsV1c4TUFQeVJsYkh5dEk9Wh4iHGtheURETUJmZDhEM01EWFFLR1FxckNwYlNJUT1lislA0xKoAQgrEqMBChx3UG85S1BmQVZSQW9KV013NEx6M0RTUFJ1ZGs9EiQwNmJmYTljNC05NGM5LTRlMjQtYWY4My1iZTVkZDlhODllNzQYACAAKAAw9duZ3YcwOOLcmd2HMEDi3JndhzBKHDdQakNlZm9uMWlaSVc3cDFiQ3dla2tJaXNRQT1aHyIdrS9HVXpGYlJ4VXh6K2VPTHVZbUpUT1A0VU1QZz1lB9wS0BKnAQgnEqIBChxOamNHVnNPbVo3WFVVSmNwZjBhTmdSSjRLbHM9EiRlNDUzYTlhOS1lN2I0LTQ2YjAtOGMzMC0wZmYyN2FhNmEyMWMYACAAKAAwg4Hsq/wvOM+B7Kv8L0DPgeyr/C9KHDI3SnF3aGt0d0pLTHROVmJsaW5NTStEakVxOD1aHiIcamczN0c4cDJTUTBycDY0alYyR2s4WGVyOXkwPWXy8/H6EqcBCCUSogEKHGQ5Rm5UUHdCSkpLT3FKQmtwQjdBTnFhdDFpaz0SJDBiMDNlYzViLTIxNDAtNGU3ZC04MjA3LTIzZGJiZjMwODVmMhgAIAAoADDkpsKE+y84uafChPsvQLmnwoT7L0ocZ0ZUSndJVkdBUEplK2VNdGZpTmVpczlRNVRFPVoeIhxYSFpNejRnRzQ1NVVnMUxGQjFBMkRzbXRvalU9ZQAAAAASpwEIJBKiAQocMjJqdDAzMWRtN0VkeXJRc1R0SmlJTlJ6M2NBPRIkYThkMGIxZWEtZGY1NS00MWE0LTg4MzUtYzI0Yjg4YjgwZDYxGAAgACgAMKrkjoT8Lzj9wY6E/C9A/cGOhPwvShxudXovQzgySFFKTXN3d2ZCTHMwTm5PcjFNUzA9Wh4iHHhROGRZc214T2JJQy9lM2ZmSEtPbDRmbm9tWT1lAAAAABKnAQgmEqIBChxkc3FtSlc2eTBqSlJDUjd1ejBuajRmVDR6Mk09EiQ0NjRmYTgxYi0yZjhhLTQ5ZjQtOWZmYS03OTE1ZTRkNGUwNTIYACAAKAAw5KbChPsvOI74wIT7L0CO+MCE+y9KHFRBaFFneVpsNnA2VkpOeFhhR0I0OWx6ZStEVT1aHiIcTEh3cEorNFdXWm5kOEJHVDVUdHo5NXVHOUNVPWUQKv8iEqcBCCMSogEKHGI2dlpWbUxJTWxtT3RzNC9SWlF5SDFWYnFLZz0SJDkzZTNhNTE0LTEyYzUtNGU2Yi04NDJlLWNiYjUyYWFhODVkNxgAIAAoADCgnKL99C84/dObkfQvQP3Tm5H0L0ocVW5hMm9qeTF4ZDlleE5STFgwQ094TlFpZW9FPVoeIhxaVWRCZXV3QVNpRWJKUHEvcVQyVmVGdEZvNDg9ZQSogKkSqAEIIBKjAQocUzFlZDNFRW5QSWxaNEF5dFpUN2VsU2ZnV2JBPRIkYWQ1YmU4ZjQtNTQxOS00ZTEwLTg5MWEtMDc1YTBjYmQxZGRlGAAgACgAMPO12ImGMDjVoNiJhjBA1aDYiYYwShx3Q3FqSTNwSjRTYzRyZ0wzNFpuYmlMOWI4cGc9Wh8iHbZPelgydVRDc0tWTGdZaUdxK0ZoSzU1aWx0T0U9ZQAAAAASpwEIHxKiAQocSEpzWTJ4bFNCcXVQSlIxVDQ2cEpPNlptclVrPRIkMDFjN2QxYzgtMDZhNC00MzI3LWE1MGQtNjMzZjMzZmNjZWIxGAAgACgAMK3b2MX2LziyvtfF9i9Asr7XxfYvShxhakxRbmtkazVTZ1d5cGpMUnpLWTdqdVE2YnM9Wh4iHGwxN0ZGMWFqMTZsREZOQkJBVE5zVUlWRnovOD1le/HIKhKnAQgeEqIBChxweWN2cExSYUc0YUNQU0k3dXpBTHp6VXZ3U1U9EiQ0NjYyZTA0Yi01NWEyLTQ5MWUtYmVmNC1mZDk0NzkwODQ1NjkYACAAKAAw0s+2z/QvOO/Qts/0L0Dv0LbP9C9KHGN6elQrbWswRE5tbCtxbHZGTWhsMlR6N01JWT1aHiIcUW5DVGRrVDdTZkl4ZkwvNjh6d1pYbW1Nd2tjPWVf9IsEEqcBCB0SogEKHHV5MGlqMytBL2xOV3RsdFFpUW50ZlhwdytwMD0SJDZlMzBhNWQ3LWI2NGQtNDg1OC1iM2QyLTliYTQxZTY0ZGEzNxgAIAAoADDSz7bP9C84oeyxz/QvQKHssc/0L0ocUzh2bDJPMHVWZlpVdFV3cFR1MmhRYUhXODFZPVoeIhxLdnVVTFZFdnRVVVJVbmk4UVdCZmJ1QVNEZ2s9ZV/0iwQSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMzZjNDg2YTItYjFkOS01ZWE1LWJhODItMTFlZGNkOWU1Mzk1GAAgACgAMIrR5/GqLjjhwanr6y9A4cGp6+svShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhMTcwMjJkYS0wYmU3LTU4ZDAtOTNjZC1lODZiOTA4NDYxNzQYACAAKAAwi9Hn8aouOPDBqevrL0Dwwanr6y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCCISogEKHE5FYk5DU005NFdaVjAxdGQ4aEZpZytuRURoST0SJGYyOGZiNDYzLTFhZDAtNDE1Ny1iZGIxLTE4ZGYzZjhmMTg1NBgAIAAoADCgnKL99C84pJ6i/fQvQKSeov30L0occEhkQmhGMCt5b29HZ1gzSFcxczJlS05oQWhFPVoeIhxzRnVySWVMMUJIRW55V0xwL3lsNU9hVWRESGs9ZQAAAAASqgEIGhKlAQocT3FWS3VzSGlPR1NLaHl0bWJhSS9PdVhQNmpvPRIkZTBlZGM1YzQtZTQzYS00YmRmLTkxMjEtOTA0MDdjOTgzNmViGAAgACgAMLTCoI7SLzictazr6y9AnLWs6+svShxMSWplZEpXcUpkaG42S0ZuVTZycWg0Q2Rsb0E9WiEiH///3WlyRmpaaEVrU3lQN2FqdStRYmNUWGZuazhxRT1lNIwIWxKqAQgZEqUBChxKRlR4ditEdzVKb1huV1dRb3Rhb2RjRS90cTA9EiRhMmM0MGY0MS00MmQwLTRmMjQtYWJhNS1mODRlYjEzNGQ2NDQYACAAKAAw3cfzztAvOP20rOvrL0D9tKzr6y9KHExmZ04yTUdoWmhBc3ZDbTk4aGhidWZ5bXcrMD1aISIf//+6aE1STkRBb3VoZXVzYTM1dEljeERZNlM2eklBPWWjJZ1EEqkBCBcSpAEKHEtlYzh6Ym1ab1NxamVTNG5TbnpscmgwVWNPbz0SJGNmNWNiYjViLTlhOTAtNDlhYi05NDFlLTE4ODIxNTk2ZmNkZhgAIAAoADCAqMO0zC84krOs6+svQJKzrOvrL0ocbWxnMG1NWC9WdHY3akpxTVZhRTNmY2czcHhJPVogIh7//2NxMU1FTTd0V3VLd0d0eVRoRXEwemVTWnc0Zz1lX/SLBBKpAQgWEqQBChxuZjZFSG1ZbnJqWHNEMG9VQzZaUlZhNFpoV2M9EiQ3ZDg4YTVhZi1jYTg3LTQwODYtOTdkMS1mMGU2NzMwZGZhODUYACAAKAAw7JzIs8ovOIOzrOvrL0CDs6zr6y9KHFBPS2xRRXdKUGg2T05WMkFNY0dER21VWERUMD1aICIe//5wa1JuYUlaTW5Xa08xZzBkMDROTFh4U1d1am89ZQAAAAASqQEIFRKkAQocTzRBb0N5RzJmMUIxN1NJRGtrdkZUN3RoNWFRPRIkYmFhODI3NTEtZWY3OC00NWE5LWE3MzctYTBlZjhiM2VhYjkzGAAgACgAMN+by+rHLzjEsqzr6y9AxLKs6+svShx0dUlLWDZPTjArMDhiYXRDVFFmL1FqdDMrRms9WiAiHv/9dnNIQ2lGdHRLNEVjT0p1N3RvOFpHRUwyZHFJPWUo0OGpEqcBCCESogEKHHNxeVdnUUlJNVVSZXlQYk03T0tGMWdsM3lOaz0SJGVmMzAwZTAzLTZjOGItNDkxNC05ZjdmLTUxNGJmYTIwMTAzMxgAIAAoADCgnKL99C846Jyi/fQvQOicov30L0ocUTFYYlhXTTg3TGhEbFF4QVZTOGRCM1V4dEs4PVoeIhxQa0RKcndPME5ZWmFXbktJQk5PdS8wWHhVc2M9ZQAAAAASqQEIERKkAQocejZweFRsNFlnL0xkVVFGVnRpSklmTlpVYU9vPRIkMzRjZjAwY2EtMWMwYi00OTFkLTkyMTItOTcxY2RmZjM5YjQwGAAgACgAMOyzmPe6LjjdyKnr6y9A3cip6+svShxmSXVtQUFBbDNveFA0d2NxTkNZM2lGdGNBMWM9WiAiHv/eRS9DVGlHSy9OcmZIYWoyOVl1TnlqZ0NZRHVVPWUAAAAAEqkBCBMSpAEKHGpVMERZbmRaZlJmL1p6cnJBMnJ3WjRIMEw2bz0SJDNiZDYwNDAwLTM4YjktNDZhMS1hZDFlLWQ3ZDc3OGI2Nzk3NRgAIAAoADCfhvf91y44uNSq6+svQLjUquvrL0ocOXpia29pRC8ycmZIT1gxVHVkejdZMC9oWWNNPVogIh7/91RPdzFYUjRMU1UyRjZNRlB2bVNyaWh5RGdXVT1lQMOQghKnAQgqEqIBChwwcm5ZeVNFaldubENScjlxRkRBbC9YM0g4NGM9EiRiOGQxODczYS1kMDU0LTRlNjMtODc2Mi0xYTExYmZkNTA1ZWQYACAAKAAwgdKfzIYwOKWqnsyGMEClqp7MhjBKHGRLbkY4Z3hkUzVLQ2tMRWk5NUdUbGRiZVhBVT1aHiIcWkttTldrL3V1a0JtNmJWcjZYRWFIandWdkxFPWWACCFGEqkBCBQSpAEKHEZ6bDFkZk1ZVkJodFgvd1VoenlSaHlxRGdKdz0SJDdhODA0ZTE2LWIyZjYtNDI0NC05NDdiLWE2MjAwNTZmZjFlMxgAIAAoADDKnrjr2C4419Sq6+svQNfUquvrL0occmJBdk9pVUNnUGNNZkNrNks3NUpuNEhRVi84PVogIh7/+0N5OWZGaGlselpLQnFJdnBRdmdaakEzUGdwQT1l29UozBKoAQgNEqMBChxmMDlkd0p5eXhSandIWlRueHFobDBzYjZDTHM9EiRkNWYyODE0Zi1hNzgyLTRiNzAtYTk4MS0wYTQ1NmE5Y2I4ZGMYACAAKAAw77OY97ouOJvJqevrL0Cbyanr6y9KHFFoaXEzbFN5eXFsT2VzVmFMWURoTThVQUNpND1aHyId/WR5cTh2bkJYOWlFLzh3NEgvWTFSbzhtdCtnWT1lAAAAABKpAQgYEqQBChxSZXlOSE9haWJvc0JqY0tNV2I1RmhMajMrbXc9EiQ1MTM4NWJkZS1kZjE1LTRiNTUtOTQyNi03M2U5NDQ1ZjIzMmQYACAAKAAwtoTT/cwvOO20rOvrL0DttKzr6y9KHE1DeTBCQ2EvNmdVOTNjdlhBQmdRQlVWMUF3TT1aICIe//91OGtlWlVlYWlacG9yWEE3bkJyd0pNNTVEVjA9ZePJNhgSqAEICxKjAQocTnFnZU12QXpqZzZGT1VsL2lwdFJjZFZTeXc0PRIkYTNmMmNhZDAtMzY2Yi00MGMwLTgzMDUtNWJiNzUzNjVhZmQ1GAAgACgAMNCpmPe6LjipxKnr6y9AqcSp6+svShxnL2dib1d3eVpubDUvSlZLSEhwY0FpaW9jbEE9Wh8iHfdzYm9sdkZnbitzRE1ZYnVhV3UxZlZ4RHEySVU9ZQAAAAASqAEIChKjAQocQkxVTDA5WnhIT0tieGs1SjM2Q1Y3SXFwdEFnPRIkMmNjZmViYWMtY2MzNC00MDhkLWIyZjktY2NjOTBmMzFiNDUxGAAgACgAMM+pmPe6LjiZxKnr6y9AmcSp6+svShx2MGx2bVhTcXJnaVdlWjdza3Z0TlRrZFRwc2c9Wh8iHe83bkloVXNiUHFiRUozVGtzNXFZdXNNdFJYSDQ9ZQAAAAASpwEIHBKiAQocM0Jvc1VCREtpSEY3ZTdkUnBZU296eUhDZUFzPRIkYTU5ODhjZDctYjA2Ni00OTMyLTkyZWUtNDgzMjEzNzA5ZThhGAAgACgAMNLPts/0Lziw0LbP9C9AsNC2z/QvShxWc0d4RjQ5NDJ0a3NTeDJidE9kdnVPZTVVaWc9Wh4iHENPaUlFYmdFK3BCVnpIS3JiN09yZlRnZWYvRT1lAAAAABKoAQgMEqMBChxFUGp4MDJFd2xIN0ZlSVRNQXpEMThVbUVWOTA9EiQ2YmZlNzkwNy0xZjkxLTQ4NTgtOTZkZi02ZjJmYjBlOTUzNTkYACAAKAAw7rOY97ouOPzIqevrL0D8yKnr6y9KHENpcDFlRmZiWmpvemlMQUhGTHRGMk8zTkNJRT1aHyId+21IMEJSUWpXNWVRK2V3TnNON1ltaWUxa2NIMD1lAAAAABKoAQgOEqMBChxrTm1yWDNBQzl4cms0SlZpZ1RXQmVuTGFPUUE9EiQ3ZWYwY2QwOS0wNjI1LTQzMjktYWMwNi04ZDU4YjU4Mjc5YzkYACAAKAAwzb2Y97ouOKvJqevrL0Cryanr6y9KHE8vU3RDQnpKTmxTNWlubHBFTW1OY0dEazZycz1aHyId/jVpMW5OeVM2NDYyaG5oZ1JUaXBSb3NPaGE4VT1lAAAAABKpAQgSEqQBChxxaFFGaENSV0VsMHBTVUhKc1RrOTZaQjRlejA9EiQ0MjBiZTNjZi05MDVmLTQxOTItOGE3MS02NGU2NGYxOGExM2IYACAAKAAw+fC7mNYuOKjUquvrL0Co1Krr6y9KHFM0bHdicnN6T29hbHAzOFgyQldIenphMGFyOD1aICIe/+95U2FUSzRVTW1UWWswc3RoWXRGcC8zTUg2UzA9ZQAAAAASqQEIEBKkAQocejRTNkVNbEFXaXRoS0x1OW01WkNSR2VpVnFZPRIkYTI0ZWNjYmQtNDlmMy00ZjJlLTg4YmItNjA5NjViNTNlNzQxGAAgACgAMO2zmPe6LjjsyKnr6y9A7Mip6+svShxiRGlTRG0xYXREUTR4MnNmeXdEWGFHWm13N0U9WiAiHv+8bVlXOTgzSWFic3NKNUJPaWsvaThBUkNYUjJRPWUAAAAAEqgBCAkSowEKHDJNckx1OU4vTDNvL3Y1SDRKVmM2azEya2g2MD0SJDNhYTFkYzM3LWQyYmMtNDJkMi1hYTJlLTcxNDM0YTVmYzRjMBgAIAAoADDOqZj3ui44isSp6+svQIrEqevrL0ocYklXNlhDNlY2MmZSclAyVEJOeGlsSFJhYzhjPVofIh3eMzAzZFBFYStXWEtLZ01BUkFrUnVMazEvNjNBPWUAAAAAEqcBCAcSogEKHG9WMHFyZ0tpQkFQYUFsNDZZY0tqZGFTUWt3VT0SJGFkNTk3YjEzLTEyZTItNDk1OS05ODgwLWFlODBkNTdjY2VkNxgAIAAoADDSqZj3ui442MSp6+svQNjEqevrL0ocTFFiV1puWUpOejYwV1RIYjc1YW8wekI1WWdVPVoeIhx6Ykd5Y2xpY1R0S2pCNUNSZjUyMktzTGttVGM9ZQAAAAASqgEIGxKlAQocbWY2MnF4Q01ESE53VDE4NFE2QkRncVBEL0ZVPRIkODY0NzY5ZDEtYzA5MS00ZDk2LWFlN2UtOTU1NTM1YmZiMGExGAAgACgAMNTr6szgLziQ2a7r6y9AkNmu6+svShxKTUwweU8zek1hNFRKMHNDN21jZ2ZZRDFKbHc9WiEiH///7kMxVVFGRG1WaTlyc1BHajBBcExiem1kY3JMUT1lW6sNDxKoAQgPEqMBChxyV0RDUU02Sk9SVTkyTVBsU01jNldBSWJqbkE9EiQ1YmRjNzUzMi02ODFkLTRmZDctYmZkYy1hYjYxZThhZjMyNjUYACAAKAAwzr2Y97ouOLrJqevrL0C6yanr6y9KHFpkSmNrY1RTbzYxejNKZFJ5SUo0NVV4aXZ3VT1aHyId/3krYjFkQnBYL0RINnE0SHFWdzRYM3plL2VEOD1lAAAAABKoAQgIEqMBChxGcXNoR0pSNzVqV2RIRWxKUGFnWVB3VUNrN3M9EiQ4NzY1YWI0Yi1hMjkyLTQyNzQtOGRjMS1iOGVjNjkzMDBjMjIYACAAKAAw67OY97ouOM3IqevrL0DNyKnr6y9KHDg4K1ppaWUrSERtdEhUdmkyOW11U01MemQ2az1aHyIdvUJ3K3lnMWZOclpjMFdMc1FmL3FicUtpUE5MMD1lAAAAABKnAQgGEqIBChxaK0dBYUFZZmxoRUtDZnYxa2h2QTlPbW5HeU09EiQ1NWRhMzQ0Yi1mODNkLTQ2ZjgtODlmYy04OTMyZWM0ZmQ2NWYYACAAKAAw0amY97ouOMjEqevrL0DIxKnr6y9KHDJ6U254aWxQTlRtMDdZa0FhK2h5dUtHUG0xYz1aHiIcOWhBVlV2Ulp6dGl4MkxQdEs3QzZpQUswU0JVPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDhkODVlMTE3LTc3OGEtNTU4YS1iZDhkLTZjYzNlZmU5ODFkMBgAIAAoADCP0efxqi44r8Kp6+svQK/CqevrL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

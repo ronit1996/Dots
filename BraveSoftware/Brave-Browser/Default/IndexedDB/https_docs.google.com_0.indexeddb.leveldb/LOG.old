@@ -1,0 +1,22 @@
+2023/05/05-12:05:47.494 10e3 Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/05-12:05:47.495 10e3 Recovering log #7
+2023/05/05-12:05:47.497 10e3 Reusing old log /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2023/05/05-12:05:49.553 10e2 Level-0 table #11: started
+2023/05/05-12:05:49.556 10e2 Level-0 table #11: 1047854 bytes OK
+2023/05/05-12:05:49.557 10e2 Delete type=0 #7
+2023/05/05-12:05:49.557 10e2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01%\x00e\x00d\x002\x00d\x00f\x00c\x003\x00f\x00e\x006\x00d\x003\x005\x00c\x000\x002\x00e\x00e\x003\x00a\x00a\x004\x00f\x000\x009\x007\x00f\x000\x007\x006\x00c\x00d\x00_\x006\x00:\x000\x000' @ 3357 : 1
+2023/05/05-12:05:49.557 10e2 Compacting 1@0 + 1@1 files
+2023/05/05-12:05:49.562 10e2 Generated table #12@0: 691 keys, 184864 bytes
+2023/05/05-12:05:49.562 10e2 Compacted 1@0 + 1@1 files => 184864 bytes
+2023/05/05-12:05:49.562 10e2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/05-12:05:49.563 10e2 Delete type=2 #8
+2023/05/05-12:05:49.563 10e2 Delete type=2 #11
+2023/05/05-12:05:49.563 10e2 Manual compaction at level-0 from '\x00\x01\x03\x02\x01%\x00e\x00d\x002\x00d\x00f\x00c\x003\x00f\x00e\x006\x00d\x003\x005\x00c\x000\x002\x00e\x00e\x003\x00a\x00a\x004\x00f\x000\x009\x007\x00f\x000\x007\x006\x00c\x00d\x00_\x006\x00:\x000\x000' @ 3357 : 1 .. (end); will stop at (end)
+2023/05/05-12:05:49.563 10e2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01%\x00e\x00d\x002\x00d\x00f\x00c\x003\x00f\x00e\x006\x00d\x003\x005\x00c\x000\x002\x00e\x00e\x003\x00a\x00a\x004\x00f\x000\x009\x007\x00f\x000\x007\x006\x00c\x00d\x00_\x006\x00:\x000\x000' @ 3357 : 1
+2023/05/05-12:05:49.563 10e2 Compacting 1@1 + 1@2 files
+2023/05/05-12:05:49.565 10e2 Generated table #13@1: 294 keys, 182259 bytes
+2023/05/05-12:05:49.565 10e2 Compacted 1@1 + 1@2 files => 182259 bytes
+2023/05/05-12:05:49.566 10e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/05-12:05:49.566 10e2 Delete type=2 #12
+2023/05/05-12:05:49.566 10e2 Delete type=2 #5
+2023/05/05-12:05:49.566 10e2 Manual compaction at level-1 from '\x00\x01\x03\x02\x01%\x00e\x00d\x002\x00d\x00f\x00c\x003\x00f\x00e\x006\x00d\x003\x005\x00c\x000\x002\x00e\x00e\x003\x00a\x00a\x004\x00f\x000\x009\x007\x00f\x000\x007\x006\x00c\x00d\x00_\x006\x00:\x000\x000' @ 3357 : 1 .. (end); will stop at (end)

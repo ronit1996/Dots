@@ -1,0 +1,6 @@
+2023/05/01-11:34:53.392 7de Creating DB /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/05/01-11:34:53.395 7de Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-11:34:57.408 7df Level-0 table #5: started
+2023/05/01-11:34:57.409 7df Level-0 table #5: 4707 bytes OK
+2023/05/01-11:34:57.409 7df Delete type=0 #3
+2023/05/01-11:34:57.410 7df Manual compaction at level-0 from (begin) .. (end); will stop at (end)

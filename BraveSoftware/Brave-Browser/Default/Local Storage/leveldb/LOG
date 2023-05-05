@@ -1,0 +1,20 @@
+2023/05/05-10:25:20.620 3 Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/05-10:25:20.620 3 Recovering log #234
+2023/05/05-10:25:20.622 3 Level-0 table #237: started
+2023/05/05-10:25:20.624 3 Level-0 table #237: 34629 bytes OK
+2023/05/05-10:25:20.625 3 Delete type=0 #234
+2023/05/05-10:37:37.253 f Level-0 table #240: started
+2023/05/05-10:37:37.255 f Level-0 table #240: 111317 bytes OK
+2023/05/05-10:37:37.256 f Delete type=0 #238
+2023/05/05-22:45:57.197 9a Level-0 table #242: started
+2023/05/05-22:45:57.199 9a Level-0 table #242: 37950 bytes OK
+2023/05/05-22:45:57.200 9a Delete type=0 #239
+2023/05/05-22:45:57.200 9a Compacting 4@0 + 1@1 files
+2023/05/05-22:45:57.206 9a Generated table #243@0: 1161 keys, 269974 bytes
+2023/05/05-22:45:57.206 9a Compacted 4@0 + 1@1 files => 269974 bytes
+2023/05/05-22:45:57.207 9a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/05-22:45:57.208 9a Delete type=2 #240
+2023/05/05-22:45:57.208 9a Delete type=2 #233
+2023/05/05-22:45:57.208 9a Delete type=2 #242
+2023/05/05-22:45:57.208 9a Delete type=2 #237
+2023/05/05-22:45:57.208 9a Delete type=2 #235

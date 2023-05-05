@@ -1,0 +1,14 @@
+2023/05/05-01:48:05.530 10ca Reusing MANIFEST /home/ronit/.config/microsoft-edge/Default/IndexedDB/chrome-extension_igbncjcgfkfnfgbaieiimpfkobabmkce_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/05-01:48:05.530 10ca Recovering log #45
+2023/05/05-01:48:05.530 10ca Reusing old log /home/ronit/.config/microsoft-edge/Default/IndexedDB/chrome-extension_igbncjcgfkfnfgbaieiimpfkobabmkce_0.indexeddb.leveldb/000045.log 
+2023/05/05-01:48:05.531 10ca Delete type=2 #44
+2023/05/05-01:48:05.535 10d9 Level-0 table #50: started
+2023/05/05-01:48:05.536 10d9 Level-0 table #50: 913 bytes OK
+2023/05/05-01:48:05.537 10d9 Delete type=0 #45
+2023/05/05-01:48:05.537 10ca Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 531 : 1
+2023/05/05-01:48:05.537 10ca Compacting 1@0 + 1@1 files
+2023/05/05-01:48:05.538 10ca Generated table #51@0: 58 keys, 1555 bytes
+2023/05/05-01:48:05.538 10ca Compacted 1@0 + 1@1 files => 1555 bytes
+2023/05/05-01:48:05.539 10ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/05-01:48:05.539 10ca Delete type=2 #50
+2023/05/05-01:48:05.539 10fb Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 531 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,15 @@
+2023/05/05-10:25:24.321 10f0 Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/05-10:25:24.321 10f0 Recovering log #4
+2023/05/05-10:25:24.324 10f0 Reusing old log /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/05/05-10:41:04.932 10e3 Level-0 table #8: started
+2023/05/05-10:41:04.942 10e3 Level-0 table #8: 1041277 bytes OK
+2023/05/05-10:41:04.943 10e3 Delete type=0 #4
+2023/05/05-10:43:15.236 10e2 Compacting 1@1 + 1@2 files
+2023/05/05-10:43:15.246 10e2 Generated table #9@1: 393 keys, 34693 bytes
+2023/05/05-10:43:15.246 10e2 Compacted 1@1 + 1@2 files => 34693 bytes
+2023/05/05-10:43:15.247 10e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/05-10:43:15.247 10e2 Delete type=2 #8
+2023/05/05-10:43:15.247 10e2 Delete type=2 #5
+2023/05/05-22:23:22.517 10e3 Level-0 table #11: started
+2023/05/05-22:23:22.533 10e3 Level-0 table #11: 876778 bytes OK
+2023/05/05-22:23:22.535 10e3 Delete type=0 #7

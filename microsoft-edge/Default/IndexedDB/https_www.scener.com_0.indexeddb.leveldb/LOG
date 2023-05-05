@@ -1,0 +1,6 @@
+2023/05/01-22:40:02.817 2fb0 Creating DB /home/ronit/.config/microsoft-edge/Default/IndexedDB/https_www.scener.com_0.indexeddb.leveldb since it was missing.
+2023/05/01-22:40:02.820 2fb0 Reusing MANIFEST /home/ronit/.config/microsoft-edge/Default/IndexedDB/https_www.scener.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-22:40:02.834 2fb2 Level-0 table #5: started
+2023/05/01-22:40:02.835 2fb2 Level-0 table #5: 1228 bytes OK
+2023/05/01-22:40:02.836 2fb2 Delete type=0 #3
+2023/05/01-22:40:02.836 2fb1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

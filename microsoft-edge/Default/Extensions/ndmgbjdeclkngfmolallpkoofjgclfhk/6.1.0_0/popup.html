@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Watchflix</title>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="/css/popup.css" />
+    </head>
+
+    <body>
+        <div class="flex-apart">
+            <header>
+                <h2>It's Movie Time! 🍿🥤🎬</h2>
+            </header>
+            <main>
+                <div class="loader"></div>
+                <section class="link hidden">
+                    <div class="info">
+                        <p>Share link</p>
+                        <label>
+                            <input class="showChat" type="checkbox" checked />
+                            <span class="note">Show Chat</span>
+                        </label>
+                    </div>
+                    <textarea readonly></textarea>
+                    <p class="hint">
+                        Please make sure to click on the extension once joining
+                        using the party link.
+                    </p>
+                </section>
+                <section class="content hidden">
+                    <div class="avatar mb4">
+                        <label class="nickname">
+                            <p>Nickname</p>
+                            <input
+                                class="ipt"
+                                type="text"
+                                placeholder="Enter nickname"
+                            />
+                        </label>
+                        <div>
+                            <input class="remember" type="checkbox" />
+                            <span class="note"
+                                >Remember my name for future party</span
+                            >
+                        </div>
+                    </div>
+                    <div class="live-box mb16">
+                        <input class="live" type="checkbox" />
+                        <span class="note"
+                            >Live Stream <span class="icon-info">i</span></span
+                        >
+                    </div>
+                    <button
+                        class="btn btn-primary create-session"
+                        type="button"
+                    >
+                        Start the party
+                        <div class="session-loader hidden"></div>
+                    </button>
+                    <div class="joined-party hidden">
+                        <button class="btn btn-primary copy-url" type="button">
+                            Copy Url
+                        </button>
+                        <div class="divider"></div>
+                        <button
+                            class="btn btn-secondary exit-party"
+                            type="button"
+                        >
+                            Exit
+                            <div class="session-loader hidden"></div>
+                        </button>
+                    </div>
+                </section>
+                <section class="msg-info live-info hidden">
+                    <span class="icon-close info-close">x</span>
+                    This feature disables synchronised play/pause and seek
+                    controls. The live chat will be available.
+                </section>
+                <section class="msg-info error-info hidden">
+                    <span class="icon-close error-close">x</span>
+                    <span class="error-detail"></span>
+                </section>
+            </main>
+            <footer>
+                <a
+                    href="https://twitter.com/intent/tweet?text=%40watchflixHQ"
+                    target="_blank"
+                >
+                    Twitter
+                </a>
+                <a href="https://discord.gg/DFZKd9f" target="_blank">
+                    Discord
+                </a>
+                <a href="mailto:watchflix.wp@gmail.com" target="_blank">
+                    Help
+                </a>
+                <a href="http://watchflix.group/?ref=popup" target="_blank">
+                    FAQ
+                </a>
+            </footer>
+            <section class="maintenance">
+                <img class="icon-maintenance" src="../img/maintenance.svg" />
+                <span></span>
+            </section>
+            <section class="info-2">
+                <span></span>
+            </section>
+        </div>
+        <script type="text/javascript" src="/js/common.js"></script>
+        <script type="text/javascript" src="/js/popup.js"></script>
+    </body>
+</html>

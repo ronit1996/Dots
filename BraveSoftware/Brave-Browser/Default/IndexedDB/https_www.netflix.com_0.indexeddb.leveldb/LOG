@@ -1,0 +1,24 @@
+2023/05/05-21:31:18.406 10e2 Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/05-21:31:18.406 10e2 Recovering log #12
+2023/05/05-21:31:18.412 10e2 Reusing old log /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000012.log 
+2023/05/05-21:59:15.095 10e3 Level-0 table #17: started
+2023/05/05-21:59:15.125 10e3 Level-0 table #17: 2605949 bytes OK
+2023/05/05-21:59:15.126 10e3 Delete type=0 #12
+2023/05/05-22:07:07.100 10e2 Compacting 1@1 + 1@2 files
+2023/05/05-22:07:07.105 10e2 Generated table #18@1: 51 keys, 14832 bytes
+2023/05/05-22:07:07.105 10e2 Compacted 1@1 + 1@2 files => 14832 bytes
+2023/05/05-22:07:07.106 10e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/05-22:07:07.106 10e2 Delete type=2 #14
+2023/05/05-22:07:07.106 10e2 Delete type=2 #17
+2023/05/05-22:46:27.930 10e3 Level-0 table #20: started
+2023/05/05-22:46:27.940 10e3 Level-0 table #20: 1284237 bytes OK
+2023/05/05-22:46:27.942 10e3 Delete type=0 #16
+2023/05/05-22:46:27.942 10e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/05-22:46:27.942 10e3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 49324 : 1
+2023/05/05-22:46:27.942 10e3 Compacting 1@1 + 1@2 files
+2023/05/05-22:46:27.946 10e3 Generated table #21@1: 50 keys, 10989 bytes
+2023/05/05-22:46:27.946 10e3 Compacted 1@1 + 1@2 files => 10989 bytes
+2023/05/05-22:46:27.947 10e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/05-22:46:27.947 10e3 Delete type=2 #20
+2023/05/05-22:46:27.947 10e3 Delete type=2 #18
+2023/05/05-22:46:27.947 10e3 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 49324 : 1 .. (end); will stop at (end)

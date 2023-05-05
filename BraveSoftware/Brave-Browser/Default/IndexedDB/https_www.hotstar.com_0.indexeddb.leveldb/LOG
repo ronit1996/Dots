@@ -1,0 +1,14 @@
+2023/05/04-10:51:32.368 1fb3 Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/04-10:51:32.369 1fb3 Recovering log #25
+2023/05/04-10:51:32.369 1fb3 Reusing old log /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/000025.log 
+2023/05/04-10:51:32.369 1fb3 Delete type=2 #23
+2023/05/04-10:51:32.398 1fb3 Level-0 table #30: started
+2023/05/04-10:51:32.399 1fb3 Level-0 table #30: 3622 bytes OK
+2023/05/04-10:51:32.400 1fb3 Delete type=0 #25
+2023/05/04-10:51:32.400 1fb3 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 592 : 1
+2023/05/04-10:51:32.400 1fb3 Compacting 1@0 + 1@1 files
+2023/05/04-10:51:32.401 1fb3 Generated table #31@0: 135 keys, 2663 bytes
+2023/05/04-10:51:32.401 1fb3 Compacted 1@0 + 1@1 files => 2663 bytes
+2023/05/04-10:51:32.402 1fb3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/04-10:51:32.402 1fb3 Delete type=2 #30
+2023/05/04-10:51:32.402 1fb3 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 592 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

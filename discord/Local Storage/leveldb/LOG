@@ -1,0 +1,6 @@
+2023/05/04-23:13:38.763 29ba Reusing MANIFEST /home/ronit/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/04-23:13:38.763 29ba Recovering log #82
+2023/05/04-23:13:38.763 29ba Reusing old log /home/ronit/.config/discord/Local Storage/leveldb/000082.log 
+2023/05/04-23:14:40.163 29a4 Level-0 table #86: started
+2023/05/04-23:14:40.165 29a4 Level-0 table #86: 14646 bytes OK
+2023/05/04-23:14:40.166 29a4 Delete type=0 #82

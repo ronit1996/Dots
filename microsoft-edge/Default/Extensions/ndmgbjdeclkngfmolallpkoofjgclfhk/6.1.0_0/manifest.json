@@ -1,0 +1,45 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/common.js", "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "js/vendors.js", "js/shared.js", "js/common.js", "js/bgContent.js" ],
+      "matches": [ "https://*.primevideo.com/*", "https://*.amazon.com/*video*", "https://*.amazon.de/*video*", "https://*.amazon.co.uk/*video*", "https://*.amazon.co.jp/*video*", "https://*.amazon.com/Amazon-Video*", "https://*.amazon.de/Amazon-Video*", "https://*.amazon.co.uk/Amazon-Video*", "https://*.amazon.co.jp/Amazon-Video*", "https://*.hotstar.com/*", "https://www.crunchyroll.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "js/content.js" ],
+      "matches": [ "https://static.crunchyroll.com/vilos-v2/web/vilos/player.html*", "https://youtube.googleapis.com/embed/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "js/vendors.js", "js/shared.js", "js/common.js", "js/bgContent.js" ],
+      "matches": [ "https://static.crunchyroll.com/vilos-v2/web/vilos/player.html*", "https://youtube.googleapis.com/embed/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "css/crunchyroll.episode.css" ],
+      "matches": [ "https://www.crunchyroll.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com/analytics.js; object-src 'self'",
+   "description": "Watch prime, hotstar, netflix, youtube, crunchyroll and google drive videos with friends",
+   "icons": {
+      "128": "img/WF128.png",
+      "32": "img/WF32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1r401TJMawkgWal9Hei38O4uQOGkkhu/7Wac5gmfqhGceUrs5+CrxDwTiIVKHtdrjCtl9UsiQFr9HqPueBee+wxxeAWh2L8xKvBPdNFynIJqxCe4I0X4ZQM5qny5dnHz1yuO3lBscteBbRT9QLVcCYSFDyhJSzaGsdS9S8jSHa53fG26r6UNrRfP/OcYqmMyTk5m/d6b1naCZCF1VDhPvu2QL9LhnvJmCbr1qLe2/zVdBmoUVzSgJqnX5KER5N1loGRRLeAQxrcXJ43/LoVHpPbSr0AQXPGuVd9KxLij77WH3jylYZivBPq5SQxORI6dz49S96biewe2wqcqYCBPYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Watchflix: stream party w/ friends",
+   "page_action": {
+      "default_icon": {
+         "128": "img/WF128.png",
+         "32": "img/WF32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Watchflix: stream party w/ friends"
+   },
+   "permissions": [ "activeTab", "storage", "declarativeContent", "webNavigation", "https://*.youtube.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.1.0"
+}

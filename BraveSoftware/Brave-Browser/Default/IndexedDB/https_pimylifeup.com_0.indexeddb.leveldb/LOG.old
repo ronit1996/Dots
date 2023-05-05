@@ -1,0 +1,6 @@
+2023/05/02-11:50:13.599 e6b Creating DB /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pimylifeup.com_0.indexeddb.leveldb since it was missing.
+2023/05/02-11:50:13.602 e6b Reusing MANIFEST /home/ronit/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pimylifeup.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-11:50:18.174 e6c Level-0 table #5: started
+2023/05/02-11:50:18.176 e6c Level-0 table #5: 6057 bytes OK
+2023/05/02-11:50:18.177 e6c Delete type=0 #3
+2023/05/02-11:50:18.177 e6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

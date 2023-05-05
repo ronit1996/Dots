@@ -1,0 +1,19 @@
+#showmedia #showmedia_video:not(:empty) {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+
+#showmedia #showmedia_video_box {
+    position: relative;
+    min-height: 520px;
+    width: 100% !important;
+    height: calc(0.562 * 100vh)
+}
+
+#showmedia #showmedia_video {
+    width: 100% !important;
+    min-height: 520px;
+    height: calc((0.5625) * 100vh);
+}
+

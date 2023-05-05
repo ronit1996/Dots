@@ -1,0 +1,62 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "common/common.js", "common/common-background.js", "background/edge.js", "background/utils.js", "background/stndz.js", "background/lists.js", "background/mystats.js", "background/user.js", "background/block-element.js", "background/notifications.js", "background/core.js", "background/start.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/19.png",
+         "38": "icons/38.png"
+      },
+      "default_popup": "views/browser_action_window/window.html",
+      "default_title": "Fair AdBlocker"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "common/common.js", "common/common-content.js", "content/edge.js", "content/popup-blocking.js", "content/doc-start.js", "content/messaging.js" ],
+      "match_about_blank": false,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "content/sites/fb.js" ],
+      "matches": [ "https://*.facebook.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content/sites/yt.js" ],
+      "matches": [ "https://*.youtube.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content/doc-end.js" ],
+      "match_about_blank": false,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "content/sites/stands_cdn.js" ],
+      "matches": [ "https://new-prod.standsapp.org/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content/sites/adblock_tester.js" ],
+      "matches": [ "https://adblock-tester.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://www.standsapp.org",
+   "icons": {
+      "128": "icons/128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm9jWH//lemcSLLZInzKSMd7sD6qIh7W0mQXhM8sPkix47L9/jQhouOr7SRB/egUbrJZLm6s3kmxlQzLLwRXRx5TEgNKcPMz2SCtjnsppXAgaBADIMvfqlUb0Vy5gA2qJYVDhVwJiwUGq7y38B2X3sNE3yogD94xXWEyFqp2TghGL8Jcn3CmN+/iav0RswhBD0I4PRzQpfApc/HBTCZTeBcEXG60BOVabablVP1rehvBS3uHGg60eC4sMKbzLeC2cQAjIa0k5dpVHI7MVGDrZAAT2YbIsCZhjQPYw4ioOYKl0osAiveSpI/KlWW3A1uGV0J9O5zCJ0d8yZp/BYktfQQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "optional_permissions": [ "management" ],
+   "permissions": [ "webNavigation", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>", "notifications", "storage", "contextMenus", "unlimitedStorage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.0.7",
+   "web_accessible_resources": [ "views/web_accessible/*" ]
+}
